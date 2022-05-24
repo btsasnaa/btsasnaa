@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @btsasnaa
 - 👀 I’m interested in swift, kotlin and flutter
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter project
+- 💞️ I’m looking to collaborate on swift, kotlin, flutter project
 - 📫 How to reach me ... email tsasnaa11fb@gmail.com
 
 <!---
